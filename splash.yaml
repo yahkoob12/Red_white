@@ -1,0 +1,13 @@
+flutter_native_splash:
+ color: "#FFFFFF"
+ color_dark: "#272727"
+ image: assets/logos/wine-bottle-unscreen.gif
+ image_dark : assets/logos/wine-bottle-unscreen.gif
+
+android_13:
+ color: "#FFFFFF"
+ color_dark: "#272727"
+ image: assets/logos/wine-bottle-unscreen.gif
+ image_dark: assets/logos/wine-bottle-unscreen.gif
+
+ web: false 
